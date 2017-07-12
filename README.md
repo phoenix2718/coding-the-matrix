@@ -1,4 +1,4 @@
-# coding-the-matrix
+# Coding the Matrix
 Coding practices in the text book 'Coding the Matrix'
 
 # References
